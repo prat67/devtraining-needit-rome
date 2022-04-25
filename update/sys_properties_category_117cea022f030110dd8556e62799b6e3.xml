@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 16:35:25</sys_created_on>
+        <sys_id>117cea022f030110dd8556e62799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_117cea022f030110dd8556e62799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 16:35:25</sys_updated_on>
+        <title><![CDATA[<p>ASDASDA</p>
+<p> </p>
+<p><img src="https://th.bing.com/th/id/R.c4b7742532f4bfef59ccf9d4d70840e1?rik&#61;IH54Dx1NIzHB%2fg&amp;riu&#61;http%3a%2f%2ficons.iconarchive.com%2ficons%2fpaomedia%2fsmall-n-flat%2f1024%2fstar-icon.png&amp;ehk&#61;1nuTFvTOLZ1JxvxRy9Gr09rDbwRrkRKKPZSBjsjW5Hc%3d&amp;risl&#61;&amp;pid&#61;ImgRaw&amp;r&#61;0" alt="See the source image" width="458" height="458" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=117cea022f030110dd8556e62799b6e3"/>
+</record_update>
